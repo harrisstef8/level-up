@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 16 Feb 2026 22:48:40 at http://demo-fashion-shop.local/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo-fashion-shop.local/ -O1 "C:\My Web Sites\level-up" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:48:59	Warning: 	Retry after error -4 (No data (connection closed)) at link demo-fashion-shop.local/xmlrpc.php?rsd (from demo-fashion-shop.local/)
+22:49:10	Error: 	"Bad Request" (400) at link demo-fashion-shop.local/wp-admin/admin-ajax.php (from demo-fashion-shop.local/)
+22:49:11	Warning: 	Retry after error -4 (No data (connection closed)) at link demo-fashion-shop.local/wp-content/plugins/user-registration/assets/fonts/UserRegistration.woff?nk6vrg (from demo-fashion-shop.local/wp-content/plugins/user-registration/assets/css/user-registration.css?ver=5.1.1)
+22:49:11	Warning: 	Retry after error -4 (No data (connection closed)) at link demo-fashion-shop.local/wp-content/plugins/user-registration/assets/fonts/UserRegistration.svg?nk6vrg (from demo-fashion-shop.local/wp-content/plugins/user-registration/assets/css/user-registration.css?ver=5.1.1)
+22:49:11	Warning: 	Retry after error -4 (No data (connection closed)) at link demo-fashion-shop.local/wp-content/plugins/user-registration/assets/images/icons/red-arrow.svg (from demo-fashion-shop.local/wp-content/plugins/user-registration/assets/css/user-registration.css?ver=5.1.1)
+22:49:11	Warning: 	Retry after error -4 (No data (connection closed)) at link demo-fashion-shop.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo-fashion-shop.local%2Flogin%2F (from demo-fashion-shop.local/login/)
+22:49:13	Warning: 	Moved Permanently for demo-fashion-shop.local/?p=327
+22:49:13	Warning: 	File has moved from demo-fashion-shop.local/?p=327 to http://demo-fashion-shop.local/login/
+22:49:17	Warning: 	Moved Permanently for demo-fashion-shop.local/?p=328
+22:49:17	Warning: 	File has moved from demo-fashion-shop.local/?p=328 to http://demo-fashion-shop.local/my-account/
+22:49:17	Warning: 	Retry after error -4 (No data (connection closed)) at link demo-fashion-shop.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo-fashion-shop.local%2Flevel-1%2F (from demo-fashion-shop.local/level-1/)
+22:49:17	Warning: 	Moved Permanently for demo-fashion-shop.local/?p=82
+22:49:17	Warning: 	File has moved from demo-fashion-shop.local/?p=82 to http://demo-fashion-shop.local/level-1/
+22:49:17	Warning: 	Retry after error -4 (No data (connection closed)) at link demo-fashion-shop.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo-fashion-shop.local%2Flevel-2%2F (from demo-fashion-shop.local/level-2/)
+22:49:18	Warning: 	Moved Permanently for demo-fashion-shop.local/?p=96
+22:49:18	Warning: 	File has moved from demo-fashion-shop.local/?p=96 to http://demo-fashion-shop.local/level-2/
+22:49:18	Warning: 	Moved Permanently for demo-fashion-shop.local/?p=98
+22:49:18	Warning: 	File has moved from demo-fashion-shop.local/?p=98 to http://demo-fashion-shop.local/level-3/
+22:49:18	Error: 	"Not Found" (404) at link demo-fashion-shop.local/OPR/ (from demo-fashion-shop.local/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.0)
+22:49:18	Warning: 	Moved Permanently for demo-fashion-shop.local/?p=329
+22:49:18	Warning: 	File has moved from demo-fashion-shop.local/?p=329 to http://demo-fashion-shop.local/lost-password/
+22:49:18	Warning: 	Moved Permanently for demo-fashion-shop.local/?p=326
+22:49:18	Warning: 	File has moved from demo-fashion-shop.local/?p=326 to http://demo-fashion-shop.local/registration/
+22:49:20	Error: 	"Not Found" (404) at link demo-fashion-shop.local/my-account/edge/ (from demo-fashion-shop.local/wp-content/plugins/user-registration/assets/js/tooltipster/tooltipster.bundle.min.js?ver=4.2.8)
+22:49:20	Warning: 	Retry after error -4 (No data (connection closed)) at link demo-fashion-shop.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo-fashion-shop.local%2Flevel-1%2F (from demo-fashion-shop.local/level-1/)
+22:49:20	Warning: 	Retry after error -4 (No data (connection closed)) at link demo-fashion-shop.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo-fashion-shop.local%2Flevel-2%2F (from demo-fashion-shop.local/level-2/)
+22:49:20	Error: 	"No data (connection closed)" (-4) after 2 retries at link demo-fashion-shop.local/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo-fashion-shop.local%2Flevel-2%2F (from demo-fashion-shop.local/level-2/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 40 seconds : 109 links scanned, 88 files written (2530691 bytes overall) [764252 bytes received at 19106 bytes/sec], 2455698 bytes transferred using HTTP compression in 82 files, ratio 21%, 10.3 requests per connection
+(4 errors, 23 warnings, 0 messages)
